@@ -10,7 +10,7 @@
   <a href="https://twitter.com/hasaneke_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-        <img src="https://komarev.com/ghpvc/?username=hasaneke&style=flat-square&color=blue" alt=""/>
+        <img src="https://komarev.com/ghpvc/?username=hasanneke&style=flat-square&color=blue" alt=""/>
 </div>
   <h1>
   hey there
