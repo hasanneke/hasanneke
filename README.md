@@ -21,14 +21,14 @@
 </div>
 </div>
 <div>
----------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
   
 :technologist: About Me :
   
-I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: Developing cross platform applications with Flutter/Dart
+I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+- :telescope: Actively developing cross platform applications
 
-- :seedling: Studying computer engineering 
+- :seedling: Studying computer engineering
 
 - :zap: In my free time,I write technical articles, contribute to open-source projects and develop apps for app stores.
 
