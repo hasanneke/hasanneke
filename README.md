@@ -26,7 +26,7 @@
 :technologist: About Me :
   
 I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: Actively developing cross platform applications
+- :telescope: Actively developing cross platform and server-side applications
 
 - :seedling: Studying computer engineering
 
