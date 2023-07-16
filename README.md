@@ -34,6 +34,4 @@ I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlp
 
 </div>
  </div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanneke&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
