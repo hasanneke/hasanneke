@@ -26,11 +26,9 @@
 :technologist: About Me :
   
 I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: Actively developing cross platform and server-side applications
+- :telescope: Actively developing client-side and server-side applications
 
-- :seedling: Studying computer engineering
-
-- :zap: In my free time,I write technical articles, contribute to open-source projects and develop apps for app stores.
+- :zap: In my free time,I write technical articles, contribute to open-source projects and work on side-project
 
 </div>
  </div>
